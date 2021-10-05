@@ -1,0 +1,23 @@
+.about-style{
+    background-color: rgb(35, 57, 99);
+}
+
+.about-style img{
+    width: 500px;
+    height: 300px;
+    margin-left: 30%;
+    margin-top: 20px;
+}
+.about-style p{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: rgb(231, 230, 228);
+    text-align: center;
+}
+.about-style h3{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: rgb(255, 243, 255);
+    text-align: center;
+}
+.p-style{
+    border: 2px solid crimson;
+}

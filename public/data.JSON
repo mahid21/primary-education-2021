@@ -1,0 +1,70 @@
+[
+   
+    
+    {
+      "img": "https://media-eng.dhakatribune.com/uploads/2019/03/ctg-book-1-copy-1553104732878.jpg",
+      "Name": "Dream Vertex Primary School",
+      "Fees": 500,
+      "Duration": "one year",
+      "Course": "Class one"
+    },
+    {
+      "img": "https://c8.alamy.com/comp/D21JRF/smiling-boy-and-girl-primary-school-students-in-blue-uniforms-in-a-D21JRF.jpg",
+      "Name": "Dream Vertex Primary School",
+      "Fees": 100,
+      "Duration": "one year",
+      "Course": "Class two"
+    },
+    {
+      "img": "https://www.unicef.org/bangladesh/sites/unicef.org.bangladesh/files/styles/press_release_feature/public/Pre-Primary%20Classroom_Mawa_March_030_0.jpg?itok=un2ayM3y",
+      "Name": "Dream Vertex Primary School",
+      "Fees": 100,
+      "Duration": "one year",
+      "Course": "Class two"
+    },
+    {
+      "img": "https://media-eng.dhakatribune.com/uploads/2019/03/ctg-book-1-copy-1553104732878.jpg",
+      "Name": "Dream Vertex Primary School",
+      "Fees": 1500,
+      "Duration": "one year",
+      "Course": "Class three"
+    },
+    {
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLdRH-lgI7JEooWOE1hEHhDMjpSS9cn6fnXA&usqp=CAU",
+      "Name": "Dream Vertex Primary School",
+      "Fees": 500,
+      "Duration": "one year",
+      "Course": "Class one"
+    },
+    {
+      "img": "https://media.istockphoto.com/photos/primary-school-kids-run-holding-hands-in-corridor-close-up-picture-id1031384160?k=6&m=1031384160&s=612x612&w=0&h=D1H5VmcXDG5x2XrMW9hjVKiLjtfYy5cb3bz0fMEJbn8=",
+      "Name": "Dream Vertex Primary School",
+      "Fees": 1500,
+      "Duration": "one year",
+      "Course": "Class three"
+    },
+    {
+      "img": "https://img.thedailystar.net/sites/default/files/styles/social_share/public/feature/images/school_19.jpg?itok=MKwRYeS4",
+      "Name": "Dream Vertex Primary School",
+      "Fees": 500,
+      "Duration": "one year",
+      "Course": "Class one"
+    },
+    
+    {
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqhWI17I2N3Um9afj2MsBV7aS4PoflbFpa1g&usqp=CAU",
+      "Name": "Dream Vertex Primary School",
+      "Fees": 1800,
+      "Duration": "one year",
+      "Course": "Class four"
+    },
+    
+    {
+      "img": "https://media.istockphoto.com/photos/interior-of-classroom-in-elementary-school-picture-id1156684829?b=1&k=20&m=1156684829&s=170667a&w=0&h=pxT9Kxd9dhnEWWUcjk0hrto5vlunZ5kZuyl003_kzYY=",
+      "Name": "Dream Vertex Primary School",
+      "Fees": 2000,
+      "Duration": "one year",
+      "Course": "Class five"
+    }
+    
+  ]

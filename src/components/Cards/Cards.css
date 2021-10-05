@@ -1,0 +1,14 @@
+.cards-style{
+   border: 2px solid gray;
+   border-radius: 10px;
+   padding: 5px;
+   margin: 10px;
+}
+.cards-style img{
+    width: 200px;
+    height: 200px;
+    margin: 10px;
+    border: 1px solid gold;
+    border-radius: 50%;
+    
+}

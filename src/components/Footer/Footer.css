@@ -1,0 +1,26 @@
+.Menu-container{
+    width: 100%;
+}
+.catagories {
+    list-style: none;
+    margin-right: 30px;
+    font-size: 30px;
+    font-weight: 500;
+   color: white;
+    padding: 5px;
+    text-decoration: none;
+  }
+  .catagories:hover {
+    color: red;
+  }
+  .footer-style{
+      background-color: black;
+      color: white;
+      padding: 5px;
+    text-decoration: none;
+      
+  }
+  .footer-style li{
+     list-style-type: none;
+      
+  }

@@ -1,0 +1,55 @@
+[
+    {
+      "img": "https://cdn4.vectorstock.com/i/1000x1000/24/83/cartoon-man-driving-a-car-vector-10092483.jpg",
+      "name": "Car Driving Course",
+      "price": 1000,
+      "duration": "60 days",
+      "instructor": "James Bond"
+    },
+    
+    {
+      "img": "https://i.pinimg.com/originals/95/d8/0e/95d80ea9bd4796d7b5c9e305d8bceeb2.jpg",
+      "name": "Lorry Driving Course",
+      "price": 1500,
+      "duration": "90 days",
+      "instructor": "Mark Angel"
+    },
+    
+    {
+      "img": "https://w7.pngwing.com/pngs/879/890/png-transparent-go-jek-layanan-driver-gojek-grab-motorcycle-taxi-android-go-jek-company-cartoon-fictional-character.png",
+      "name": "Bike Driving Course",
+      "price": 500,
+      "duration": "30 days",
+      "instructor": "Steve Smith"
+    },
+    
+    {
+      "img": "https://i.ytimg.com/vi/dkoVxBnnGko/maxresdefault.jpg",
+      "name": "Bicycle Driving Course",
+      "price": 300,
+      "duration": "15 days",
+      "instructor": "Mazharul Islam"
+    },
+    {
+      "img": "https://www.indiafilings.com/learn/wp-content/uploads/2019/01/Driving-License.jpg",
+      "name": "Licence renewal",
+      "price": 500,
+      "duration": "15 days",
+      "instructor": "Molla-driving-school"
+    },
+    {
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTB4ZX2j_AdBQAb6kWDBs1_1HtZMOunu8scuA&usqp=CAU",
+      "name": "Virtual driving Class",
+      "price": 1500,
+      "duration": "30 days",
+      "instructor": "Makram"
+    },
+    {
+      "img": "https://www.pinclipart.com/picdir/big/522-5225247_drivers-test-cliparts-cartoon-driving-test-png-download.png",
+      "name": "Driving test exem",
+      "price": 500,
+      "duration": "3 days",
+      "instructor": "Angel Morgan"
+    }
+    
+  ]
